@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DBSetup", "Setup1\Setup1.vdproj", "{F7B68184-1C79-4CF4-9B17-F89C58502F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DagYig", "DagYig\DagYig.csproj", "{79B81538-EB1F-48EF-A6D0-178474DEEE6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DagYigDatabase", "DagYigDatabase\DagYigDatabase.csproj", "{EDB24D97-5F24-4999-AEFF-FF3D025E8ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B68184-1C79-4CF4-9B17-F89C58502F3A}.Debug|Any CPU.ActiveCfg = Debug
+		{F7B68184-1C79-4CF4-9B17-F89C58502F3A}.Release|Any CPU.ActiveCfg = Release
+		{79B81538-EB1F-48EF-A6D0-178474DEEE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B81538-EB1F-48EF-A6D0-178474DEEE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B81538-EB1F-48EF-A6D0-178474DEEE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B81538-EB1F-48EF-A6D0-178474DEEE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB24D97-5F24-4999-AEFF-FF3D025E8ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB24D97-5F24-4999-AEFF-FF3D025E8ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB24D97-5F24-4999-AEFF-FF3D025E8ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB24D97-5F24-4999-AEFF-FF3D025E8ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

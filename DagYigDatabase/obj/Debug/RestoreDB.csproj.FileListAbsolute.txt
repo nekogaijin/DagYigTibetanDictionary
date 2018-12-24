@@ -1,0 +1,5 @@
+d:\2010Projects\DagYig\RestoreDB\bin\Debug\RestoreDB.dll
+d:\2010Projects\DagYig\RestoreDB\bin\Debug\RestoreDB.pdb
+d:\2010Projects\DagYig\RestoreDB\obj\Debug\ResolveAssemblyReference.cache
+d:\2010Projects\DagYig\RestoreDB\obj\Debug\RestoreDB.dll
+d:\2010Projects\DagYig\RestoreDB\obj\Debug\RestoreDB.pdb
