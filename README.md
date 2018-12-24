@@ -1,5 +1,5 @@
 # DagYigTibetanDictionary
-Editable Tibetan Language Dictionary which will retrieve definition on search and on copy paste  created 2011
+Editable Tibetan Language Dictionary which will retrieve definition on search and on copy paste.  Created 2011. 
 
 README DAG YIG Version 1.0
 
