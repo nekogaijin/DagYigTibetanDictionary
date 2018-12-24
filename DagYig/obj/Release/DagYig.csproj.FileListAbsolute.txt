@@ -1,0 +1,17 @@
+C:\Projects\DagYig\DagYig\bin\Release\DagYig.exe.config
+C:\Projects\DagYig\DagYig\bin\Release\DagYig.exe.manifest
+C:\Projects\DagYig\DagYig\bin\Release\DagYig.application
+C:\Projects\DagYig\DagYig\bin\Release\DagYig.exe
+C:\Projects\DagYig\DagYig\bin\Release\DagYig.pdb
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.frmDagYig.resources
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.frmDagYigScan.resources
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.frmDagYigPref.resources
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.frmTest.resources
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.frmWylieToTib.resources
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.Properties.Resources.resources
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.exe.manifest
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.application
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.exe
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.pdb
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.csprojResolveAssemblyReference.cache
+C:\Projects\DagYig\DagYig\obj\Release\DagYig.csproj.GenerateResource.Cache

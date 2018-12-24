@@ -1,0 +1,82 @@
+﻿<?xml version="1.0"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <section name="DagYig.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false"/>
+    </sectionGroup>
+  </configSections>
+  <userSettings>
+    <DagYig.Properties.Settings>
+      <setting name="ScanFont" serializeAs="String">
+        <value>Jomolhari, 10.25pt</value>
+      </setting>
+      <setting name="ScanFontSize" serializeAs="String">
+        <value>10</value>
+      </setting>
+      <setting name="DictTibFont" serializeAs="String">
+        <value>Jomolhari, 25.25pt</value>
+      </setting>
+      <setting name="DictTibFontSize" serializeAs="String">
+        <value>25</value>
+      </setting>
+      <setting name="ClipBoardWindowSize" serializeAs="String">
+        <value>265, 357</value>
+      </setting>
+      <setting name="LoopHotKey" serializeAs="String">
+        <value>X</value>
+      </setting>
+      <setting name="UseHotKey" serializeAs="String">
+        <value>N</value>
+      </setting>
+      <setting name="DictionaryWindowSize" serializeAs="String">
+        <value>1170, 584</value>
+      </setting>
+      <setting name="DictDefFont" serializeAs="String">
+        <value>Jomolhari, 10.25pt</value>
+      </setting>
+      <setting name="DictDefFontSize" serializeAs="String">
+        <value>10</value>
+      </setting>
+      <setting name="DictInputFont" serializeAs="String">
+        <value>Jomolhari, 10.25pt</value>
+      </setting>
+      <setting name="DictInputFontSize" serializeAs="String">
+        <value>10</value>
+      </setting>
+      <setting name="ScanDefFont" serializeAs="String">
+        <value>Jomolhari, 10.25pt</value>
+      </setting>
+      <setting name="ScanDefFontSize" serializeAs="String">
+        <value>10</value>
+      </setting>
+      <setting name="GridRowHeight" serializeAs="String">
+        <value>50</value>
+      </setting>
+      <setting name="TibColSizeW" serializeAs="String">
+        <value>200</value>
+      </setting>
+      <setting name="DefColSizeW" serializeAs="String">
+        <value>475</value>
+      </setting>
+      <setting name="WylieColSizeW" serializeAs="String">
+        <value>100</value>
+      </setting>
+    </DagYig.Properties.Settings>
+  </userSettings>
+  <appSettings>
+    <add key="ConnectionString" value="Server=.\sqlexpress;Database=DagYig;Trusted_Connection=True"/>
+    <add key="ClientSettingsProvider.ServiceUri" value=""/>
+  </appSettings>
+  <system.web>
+    <membership defaultProvider="ClientAuthenticationMembershipProvider">
+      <providers>
+        <add name="ClientAuthenticationMembershipProvider" type="System.Web.ClientServices.Providers.ClientFormsAuthenticationMembershipProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri=""/>
+      </providers>
+    </membership>
+    <roleManager defaultProvider="ClientRoleProvider" enabled="true">
+      <providers>
+        <add name="ClientRoleProvider" type="System.Web.ClientServices.Providers.ClientRoleProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" cacheTimeout="86400"/>
+      </providers>
+    </roleManager>
+  </system.web>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup></configuration>

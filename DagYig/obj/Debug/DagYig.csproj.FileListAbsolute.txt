@@ -1,0 +1,12 @@
+d:\Projects\DagYig\DagYig\obj\Debug\ResolveAssemblyReference.cache
+d:\Projects\DagYig\DagYig\obj\Debug\DagYig.frmDagYig.resources
+d:\Projects\DagYig\DagYig\obj\Debug\DagYig.Properties.Resources.resources
+d:\Projects\DagYig\DagYig\obj\Debug\DagYig.csproj.GenerateResource.Cache
+d:\Projects\DagYig\DagYig\bin\Debug\DagYig.exe
+d:\Projects\DagYig\DagYig\bin\Debug\DagYig.pdb
+d:\Projects\DagYig\DagYig\obj\Debug\DagYig.exe
+d:\Projects\DagYig\DagYig\obj\Debug\DagYig.pdb
+D:\Projects\DagYig\DagYig\bin\Debug\DagYig.exe.config
+C:\Projects\DagYig\DagYig\bin\Debug\DagYig.exe.config
+C:\Projects\DagYig\DagYig\obj\Debug\DagYig.exe
+C:\Projects\DagYig\DagYig\obj\Debug\DagYig.pdb

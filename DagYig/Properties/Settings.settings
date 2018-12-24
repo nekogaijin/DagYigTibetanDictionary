@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DagYig.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ScanFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Jomolhari, 10.25pt</Value>
+    </Setting>
+    <Setting Name="ScanFontSize" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="DictTibFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Jomolhari, 25.25pt</Value>
+    </Setting>
+    <Setting Name="DictTibFontSize" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="ClipBoardWindowSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">265, 357</Value>
+    </Setting>
+    <Setting Name="LoopHotKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">X</Value>
+    </Setting>
+    <Setting Name="UseHotKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N</Value>
+    </Setting>
+    <Setting Name="DictionaryWindowSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1170, 584</Value>
+    </Setting>
+    <Setting Name="DictDefFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Jomolhari, 10.25pt</Value>
+    </Setting>
+    <Setting Name="DictDefFontSize" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="DictInputFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Jomolhari, 10.25pt</Value>
+    </Setting>
+    <Setting Name="DictInputFontSize" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="ScanDefFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Jomolhari, 10.25pt</Value>
+    </Setting>
+    <Setting Name="ScanDefFontSize" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="GridRowHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="TibColSizeW" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="DefColSizeW" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">475</Value>
+    </Setting>
+    <Setting Name="WylieColSizeW" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

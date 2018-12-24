@@ -1,0 +1,85 @@
+Error: FrmDagYig, CallDefDB Instance failure.
+Error: FrmDagYig, backgroundWorker1_DoWork Cannot find table 0.
+Error: FrmDagYig, CallDefDB Instance failure.
+Error: FrmDagYig, backgroundWorker1_DoWork Cannot find table 0.
+Error: FrmDagYig, CallDefDB Instance failure.
+Error: FrmDagYig, backgroundWorker1_DoWork Cannot find table 0.
+Error: FrmDagYig, CallDefDB Instance failure.
+Error: FrmDagYig, backgroundWorker1_DoWork Cannot find table 0.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted, e.Result was null
+Error: FrmDagYig, CallDefDB Cannot open database "DagYig" requested by the login. The login failed.
+Login failed for user 'Atisha\Al'.
+Error: FrmDagYig, backgroundWorker1_DoWork Cannot find table 0.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted, e.Result was null
+Error: FrmDagYig, CallDefDB Cannot open database "DagYig" requested by the login. The login failed.
+Login failed for user 'Atisha\Al'.
+Error: FrmDagYig, backgroundWorker1_DoWork Cannot find table 0.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted, e.Result was null
+Error: FrmDagYig, CallDefDB Cannot open database "DagYig" requested by the login. The login failed.
+Login failed for user 'Atisha\Al'.
+Error: FrmDagYig, backgroundWorker1_DoWork Cannot find table 0.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted, e.Result was null
+Error: FrmDagYig, CallDefDB Cannot open database "DagYig" requested by the login. The login failed.
+Login failed for user 'Atisha\Al'.
+Error: FrmDagYig, backgroundWorker1_DoWork Cannot find table 0.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted, e.Result was null
+4/16/2011 12:41:59 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/16/2011 12:42:30 PM Error: frmDagYigScan CallDefDB Index was outside the bounds of the array.
+4/16/2011 12:43:00 PM Error: frmDagYigScan CallDefDB Index was outside the bounds of the array.
+4/16/2011 12:43:09 PM Error: frmDagYigScan CallDefDB Index was outside the bounds of the array.
+4/16/2011 12:43:52 PM Error: frmDagYigScan CallDefDB Index was outside the bounds of the array.
+4/16/2011 12:44:29 PM Error: frmDagYigScan CallDefDB Index was outside the bounds of the array.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted Object reference not set to an instance of an object.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted Object reference not set to an instance of an object.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted Object reference not set to an instance of an object.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted Object reference not set to an instance of an object.
+4/16/2011 2:38:41 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/16/2011 3:00:32 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+Error: FrmDagYig, SearchSpecific This BackgroundWorker is currently busy and cannot run multiple tasks concurrently.
+Error: FrmDagYig, SearchSpecific This BackgroundWorker is currently busy and cannot run multiple tasks concurrently.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted Object reference not set to an instance of an object.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted Object reference not set to an instance of an object.
+Error: FrmDagYig, UpdateDR Column 'DictID' does not belong to table Table.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted Object reference not set to an instance of an object.
+Error: FrmDagYig, SearchSpecific This BackgroundWorker is currently busy and cannot run multiple tasks concurrently.
+9/10/2011 3:11:00 PM Error: frmDagYigScan CallDefDB Index was outside the bounds of the array.
+Error: FrmDagYig, UpdateDR Cannot insert the value NULL into column 'DictID', table 'DagYig.dbo.Dictionary'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+Error: FrmDagYig, UpdateDR Cannot insert the value NULL into column 'DictID', table 'DagYig.dbo.Dictionary'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+Error: FrmDagYig, UpdateDR Cannot insert the value NULL into column 'DictID', table 'DagYig.dbo.Dictionary'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+Error: FrmDagYig, UpdateDR Cannot insert the value NULL into column 'DictID', table 'DagYig.dbo.Dictionary'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+Error: FrmDagYig, UpdateDR Cannot insert the value NULL into column 'DictID', table 'DagYig.dbo.Dictionary'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+Error: FrmDagYig, UpdateDR Cannot insert the value NULL into column 'DictID', table 'DagYig.dbo.Dictionary'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted Object reference not set to an instance of an object.
+4/27/2012 5:03:14 PM Error: frmDagYigScan CallDefDB Index was outside the bounds of the array.
+4/27/2012 5:16:10 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/27/2012 5:16:40 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/27/2012 6:43:21 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/27/2012 6:44:49 PM Error: frmDagYigScan CallDefDB Index was outside the bounds of the array.
+4/27/2012 6:49:33 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/27/2012 7:00:25 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/27/2012 7:06:23 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/27/2012 7:09:24 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/27/2012 7:14:41 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/27/2012 7:15:51 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/27/2012 7:17:49 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+4/27/2012 7:28:38 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+5/2/2012 6:01:50 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+5/2/2012 6:06:25 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+5/2/2012 6:11:25 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+5/2/2012 6:47:42 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+5/2/2012 7:24:11 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+5/2/2012 7:27:04 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+5/2/2012 7:46:47 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+5/2/2012 7:55:45 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+5/7/2012 3:11:28 PM Error: frmDagYigScan CallDefDB Object reference not set to an instance of an object.
+Error: FrmDagYig, SearchSpecific This BackgroundWorker is currently busy and cannot run multiple tasks concurrently.
+Error: FrmDagYig, SearchSpecific This BackgroundWorker is currently busy and cannot run multiple tasks concurrently.
+Error: FrmDagYig, CallDefDB A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+Error: FrmDagYig, backgroundWorker1_DoWork Cannot find table 0.
+Error: FrmDagYig, backgroundWorker1_RunWorkerCompleted, e.Result was null
