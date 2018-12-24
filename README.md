@@ -6,6 +6,7 @@ README DAG YIG Version 1.0
 This is an application which I created for my own use in order to help me with my Tibetan Language studies.  
 
 WebSite TibetanLanguage.BlogSpot.com
+https://tibetanlanguage.blogspot.com/p/dagyig.html
 
 Files included with this install:
 DagYig Database package for installing the DagYig database.
