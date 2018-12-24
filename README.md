@@ -3,7 +3,7 @@ Editable Tibetan Language Dictionary which will retrieve definition on search an
 
 README DAG YIG Version 1.0
 
-This is an application which I created for my own use in order to help me with my Tibetan Language studies. I am a web developer, primarily coding back end processes to retrieve home valuations or credit scores, so creating an install program for windows was a new challenge. Any issues, please contact me at nekogaijin@gmail.com.
+This is an application which I created for my own use in order to help me with my Tibetan Language studies.  
 
 WebSite TibetanLanguage.BlogSpot.com
 
